@@ -1,0 +1,15 @@
+C:\Users\Kassio\source\repos\DependencyInjectionContainer\DependencyInjectionContainer\bin\Debug\net6.0\DependencyInjectionContainer.exe
+C:\Users\Kassio\source\repos\DependencyInjectionContainer\DependencyInjectionContainer\bin\Debug\net6.0\DependencyInjectionContainer.deps.json
+C:\Users\Kassio\source\repos\DependencyInjectionContainer\DependencyInjectionContainer\bin\Debug\net6.0\DependencyInjectionContainer.runtimeconfig.json
+C:\Users\Kassio\source\repos\DependencyInjectionContainer\DependencyInjectionContainer\bin\Debug\net6.0\DependencyInjectionContainer.dll
+C:\Users\Kassio\source\repos\DependencyInjectionContainer\DependencyInjectionContainer\bin\Debug\net6.0\DependencyInjectionContainer.pdb
+C:\Users\Kassio\source\repos\DependencyInjectionContainer\DependencyInjectionContainer\obj\Debug\net6.0\DependencyInjectionContainer.csproj.AssemblyReference.cache
+C:\Users\Kassio\source\repos\DependencyInjectionContainer\DependencyInjectionContainer\obj\Debug\net6.0\DependencyInjectionContainer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kassio\source\repos\DependencyInjectionContainer\DependencyInjectionContainer\obj\Debug\net6.0\DependencyInjectionContainer.AssemblyInfoInputs.cache
+C:\Users\Kassio\source\repos\DependencyInjectionContainer\DependencyInjectionContainer\obj\Debug\net6.0\DependencyInjectionContainer.AssemblyInfo.cs
+C:\Users\Kassio\source\repos\DependencyInjectionContainer\DependencyInjectionContainer\obj\Debug\net6.0\DependencyInjectionContainer.csproj.CoreCompileInputs.cache
+C:\Users\Kassio\source\repos\DependencyInjectionContainer\DependencyInjectionContainer\obj\Debug\net6.0\DependencyInjectionContainer.dll
+C:\Users\Kassio\source\repos\DependencyInjectionContainer\DependencyInjectionContainer\obj\Debug\net6.0\refint\DependencyInjectionContainer.dll
+C:\Users\Kassio\source\repos\DependencyInjectionContainer\DependencyInjectionContainer\obj\Debug\net6.0\DependencyInjectionContainer.pdb
+C:\Users\Kassio\source\repos\DependencyInjectionContainer\DependencyInjectionContainer\obj\Debug\net6.0\DependencyInjectionContainer.genruntimeconfig.cache
+C:\Users\Kassio\source\repos\DependencyInjectionContainer\DependencyInjectionContainer\obj\Debug\net6.0\ref\DependencyInjectionContainer.dll
